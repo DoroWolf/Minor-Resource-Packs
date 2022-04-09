@@ -1,0 +1,23 @@
+{
+    "block.minecraft.cake": "糕蛋",
+    "item.minecraft.cake": "糕蛋",
+    "block.minecraft.black_candle_cake": "插上黑色蠟燭的糕蛋",
+    "block.minecraft.blue_candle_cake": "插上藍色蠟燭的糕蛋",
+    "block.minecraft.brown_candle_cake": "插上棕色蠟燭的糕蛋",
+    "block.minecraft.candle_cake": "插上蠟燭的糕蛋",
+    "block.minecraft.cyan_candle_cake": "插上青色蠟燭的糕蛋",
+    "block.minecraft.gray_candle_cake": "插上灰色蠟燭的糕蛋",
+    "block.minecraft.green_candle_cake": "插上綠色蠟燭的糕蛋",
+    "block.minecraft.light_blue_candle_cake": "插上淺藍色蠟燭的糕蛋",
+    "block.minecraft.light_gray_candle_cake": "插上淺灰色蠟燭的糕蛋",
+    "block.minecraft.lime_candle_cake": "插上淺綠色蠟燭的糕蛋",
+    "block.minecraft.magenta_candle_cake": "插上洋紅色蠟燭的糕蛋",
+    "block.minecraft.orange_candle_cake": "插上橘色蠟燭的糕蛋",
+    "block.minecraft.pink_candle_cake": "插上粉紅色蠟燭的糕蛋",
+    "block.minecraft.purple_candle_cake": "插上紫色蠟燭的糕蛋",
+    "block.minecraft.red_candle_cake": "插上紅色蠟燭的糕蛋",
+    "block.minecraft.white_candle_cake": "插上白色蠟燭的糕蛋",
+    "block.minecraft.yellow_candle_cake": "插上黃色蠟燭的糕蛋",
+    "stat.minecraft.eat_cake_slice": "已吃掉的糕蛋片數量",
+    "subtitles.block.cake.add_candle": "糕蛋擠壓聲"
+}

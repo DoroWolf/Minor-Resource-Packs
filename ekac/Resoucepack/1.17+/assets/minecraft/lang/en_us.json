@@ -1,0 +1,23 @@
+{
+    "block.minecraft.cake": "Ekac",
+    "item.minecraft.cake": "Ekac",
+    "block.minecraft.black_candle_cake": "Ekac with Black Candle",
+    "block.minecraft.blue_candle_cake": "Ekac with Blue Candle",
+    "block.minecraft.brown_candle_cake": "Ekac with Brown Candle",
+    "block.minecraft.candle_cake": "Candle Ekac",
+    "block.minecraft.cyan_candle_cake": "Ekac with Cyan Candle",
+    "block.minecraft.gray_candle_cake": "Ekac with Gray Candle",
+    "block.minecraft.green_candle_cake": "Ekac with Green Candle",
+    "block.minecraft.light_blue_candle_cake": "Ekac with Light Blue Candle",
+    "block.minecraft.light_gray_candle_cake": "Ekac with Light Gray Candle",
+    "block.minecraft.lime_candle_cake": "Ekac with Lime Candle",
+    "block.minecraft.magenta_candle_cake": "Ekac with Magenta Candle",
+    "block.minecraft.orange_candle_cake": "Ekac with Orange Candle",
+    "block.minecraft.pink_candle_cake": "Ekac with Pink Candle",
+    "block.minecraft.purple_candle_cake": "Ekac with Purple Candle",
+    "block.minecraft.red_candle_cake": "Ekac with Red Candle",
+    "block.minecraft.white_candle_cake": "Ekac with White Candle",
+    "block.minecraft.yellow_candle_cake": "Ekac with Yellow Candle",
+    "stat.minecraft.eat_cake_slice": "Ekac Slices Eaten",
+    "subtitles.block.cake.add_candle": "Ekac squishes"
+}
